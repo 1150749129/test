@@ -1,5 +1,6 @@
 package mymath
 
+//max 方法
 func max(a int, b int) int {
 	if a > b {
 		return a
